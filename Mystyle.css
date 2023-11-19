@@ -1,0 +1,116 @@
+ body{ 
+	font-family:"Trebuchet MS", Verdana, Arial, serif;;
+	color:black;
+	background-color:white;
+}
+UL.navbar{
+	list-Style-type:none;
+	padding:0;
+	margin:0.5em;
+
+	position:absolute;
+	top:2em;
+	left:1em;
+	width:9em;
+}
+h1,h2,h3{
+	font-family:Helvetica,Geneva,Arial,Sunsans-Regular,sans-serif;
+}
+UL.navbar li{
+	background:orange;
+	margin:0.5em0;
+	padding:0.5em;
+	border-right:1em solid black;
+}
+UL.navbar a{
+	text-decoration:none;
+}
+a:link{
+	color:black;
+}
+a:visited{
+	color:black;
+}
+/*mine*/
+.myImg {
+	width: 100%;
+	height: 100%;
+	border-radius: 20px;
+	
+}
+#logoImg {
+	width: 130px;
+	height: 130px;
+	border-radius: 50%;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	outline: 2px solid chartreuse;
+}
+table {
+	margin-left: auto;
+  	margin-right: auto;
+	box-sizing: border-box;
+	padding: 10px;
+	margin-bottom: 20px;
+}
+.tdImg {
+	height: 350px;
+}
+td  {
+	width: 33%;
+
+}
+tr {
+	margin-bottom: 10px;
+}
+.tdDesc {
+	height: 50px;
+	box-sizing: border-box;
+	padding: 10px;
+	border-bottom: 2px solid teal;
+	border-radius: 0 0 20px 20px;
+}
+h1 {
+	text-align: center;
+	font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+footer {
+	background-color: teal;
+	height: 40vh;
+	padding: 10px;
+	border-radius: 10px 10px 0 0;
+}
+footer p {
+	color: white;
+	text-align: center;
+	font-size: 18px;
+}
+i {
+	font-size: 18px;
+}
+#links {
+	width: 100%;
+	margin-top: 15px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	background-color: teal;
+	color: chartreuse;
+	height: 8vh;
+	border-bottom: 1px solid black;
+	border-top: 1px solid black
+}
+hr {
+	width: 100%;
+}
+a {
+	text-decoration: none;
+	color: white;
+}
+a:hover {
+	font-size: 18px;
+}
+td p {
+	text-align: center;
+}
