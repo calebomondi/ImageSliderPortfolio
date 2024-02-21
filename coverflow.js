@@ -109,7 +109,7 @@ coverflowimages({
 						['mimi.jpg', 'mimi.jpg','I had visited the Safaricom Tech Expo that had been held at the KICC and I decided to take a selfie'],
 						['me2.jpg', 'me2.jpg','I was enjoying mother nature on a cool Saturday evening an the JKUAT Sajorec gardens'],
 						['me3.jpg', 'me3.jpg', 'I love sunsets so at times when am free in the evenings I watch sunsets'],
-						['me5.jpeg', 'me5.jpeg', '']
+						['me5.jpeg', 'me5.jpeg', 'I was listening to my favourites songs of the decade on Spotify']
 						 // <-- no comma after last image
 					] // <-- no comma after last option
 })
